@@ -95,7 +95,7 @@ namespace CSFramework
 			yield return new WaitForSeconds(delayTime);
 
 			//Do the action after the delay time has finished.
-			lineManager.EnableLines(5);
+			lineManager.EnableLines(40);
 
 		}
 

@@ -32,7 +32,11 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/CustomSlots/Slot-Simulator/Slot-Simulator-M-Minus-Slow-EEG.unity
     guid: a0917bf32829bed46b0ea0956234dd5e
-  - enabled: 1
+  - enabled: 0
     path: Assets/CustomSlots/Slot-Simulator/Slot-Simulator-F-Plus-immersion-prompts-40_1.unity
     guid: 7f118b7984fbf6b4dbdcc188cdc23a05
+  - enabled: 1
+    path: Assets/CustomSlots/Slot-Simulator/Slot-Simulator-F-Plus-immersion-prompts-40_1
+      - Copy.unity
+    guid: f0141cb85dc05b24781ad27b3946c96d
   m_configObjects: {}
