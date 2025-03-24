@@ -218,7 +218,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 50}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1100, y: 170}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &10831229
@@ -241,7 +241,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 26
+    m_FontSize: 30
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
@@ -4136,7 +4136,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -670, y: -100}
+  m_AnchoredPosition: {x: -670, y: -130}
   m_SizeDelta: {x: 160, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &164499134
@@ -6522,10 +6522,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Please exit the full screen mode (F11 or Control+Cmd+F (^ + \u2318 + F))
-    and click on the arrow in the bottom right corner of your browser page to continue
-    on to the final set of questions. You may need to scroll down a little to see
-    the arrow."
+  m_Text: 
 --- !u!222 &247839368
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -31867,7 +31864,7 @@ RectTransform:
   m_GameObject: {fileID: 480961337}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3, y: 3, z: 1}
   m_Children: []
   m_Father: {fileID: 625791614}
   m_RootOrder: 0
@@ -36198,7 +36195,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 680, y: -100}
+  m_AnchoredPosition: {x: 680, y: -130}
   m_SizeDelta: {x: 160, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &648256591
@@ -71928,10 +71925,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Please exit the full screen mode (F11 or Control+Cmd+F (^ + \u2318 + F))
-    and click on the arrow in the bottom right corner of your browser page to continue
-    on to the final set of questions. You may need to scroll down a little to see
-    the arrow."
+  m_Text: 
 --- !u!222 &1473624482
 CanvasRenderer:
   m_ObjectHideFlags: 0
